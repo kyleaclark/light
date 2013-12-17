@@ -11,3 +11,6 @@
 *.lai
 *.la
 *.a
+
+# Ignore Files
+.DS_STORE
